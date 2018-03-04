@@ -8,3 +8,5 @@
 *.ind
 *.idx
 *.ilg
+*.fdb_latexmk
+*.fls
